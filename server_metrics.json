@@ -1,0 +1,26 @@
+[
+    {
+        "IP Address": "18.212.198.112",
+        "Ip": "18.212.198.112",
+        "OS": "Ubuntu 24.04.1 LTS",
+        "Memory Usage": "305Mi/957Mi",
+        "Disk Usage": "2.2G  6.8G",
+        "Running Processes": "105",
+        "Logged in Users": "",
+        "Open Ports": "tcp   LISTEN 0      4096          127.0.0.54:53        0.0.0.0:*          \ntcp   LISTEN 0      4096       127.0.0.53%lo:53        0.0.0.0:*          \ntcp   LISTEN 0      4096                   *:22              *:*",
+        "Uptime": "up 1 hour, 7 minutes",
+        "Crons": "no crontab for ubuntu"
+    },
+    {
+        "IP Address": "18.232.50.198",
+        "Ip": "18.232.50.198",
+        "OS": "Ubuntu 24.04.1 LTS",
+        "Memory Usage": "174Mi/454Mi",
+        "Disk Usage": "1.7G  6.8G",
+        "Running Processes": "103",
+        "Logged in Users": "",
+        "Open Ports": "tcp   LISTEN 0      4096           127.0.0.54:53        0.0.0.0:*          \ntcp   LISTEN 0      4096        127.0.0.53%lo:53        0.0.0.0:*          \ntcp   LISTEN 0      4096                    *:22              *:*",
+        "Uptime": "up 26 minutes",
+        "Crons": "no crontab for ubuntu"
+    }
+]

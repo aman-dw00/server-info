@@ -1,0 +1,12 @@
+[
+    {
+        "ip": "18.212.198.112",
+        "username": "ubuntu",
+        "ssh_key": "/Users/amanraj/Downloads/samrat.pem"
+    },
+    {
+        "ip": "18.232.50.198",
+        "username": "ubuntu",
+        "ssh_key": "/Users/amanraj/Downloads/samrat.pem"
+    }
+]
